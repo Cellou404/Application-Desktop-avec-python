@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="ressources">
+    <file>add-user.png</file>
+    <file>edit.png</file>
+    <file>utilisateurs.png</file>
+  </qresource>
+</RCC>
